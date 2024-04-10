@@ -2,7 +2,8 @@ import { Link } from "react-router-dom";
 import { CgMenuBoxed } from "react-icons/cg";
 import { FaRegWindowClose } from "react-icons/fa";
 import { useState } from "react";
-import {logo} from "../assets/logo.svg"
+import logo from '../assets/logo.svg'
+
 
 
 
@@ -18,7 +19,7 @@ const NavBar = () => {
             <div>
                 <nav className=" flex justify-between items-center w-[92%] mx-auto ">
                     <div className="pt-7">
-                        <Link to="/" className=" inline-block transition-transform transform-gpu hover:rotate-6 origin-center duration-300  text-xl"><img src={logo} alt="logo"/></Link>
+                        <Link to="/" className=" inline-block transition-transform transform-gpu hover:rotate-6 origin-center duration-300  text-xl"><img src={logo} width={30}/></Link>
                     </div>
 
                     <div className="hidden lg:flex lg:items-center">

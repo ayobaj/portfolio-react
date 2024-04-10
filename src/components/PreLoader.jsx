@@ -10,7 +10,7 @@ const PreLoader = () => {
 
     return (
         <div className=" preloader">
-            <img className="rounded-full" src={logo} height={100} width={100} alt="PreImg" />
+            <img className="rounded-full" src={logo} height={100} width={80} alt="PreImg" />
             <div className="texts-container"> 
             <span>Frontend Developer</span>
             <span>FullStack Developer</span>
