@@ -24,13 +24,13 @@ return (
                 </div>
 
                 <div className="flex mr-[150px] md:mr-[262px] space-x-3 ml-3">
-                    <a href="https://github.com/ayobaj" className="buttons">
+                    <a href="https://ayomidebajulaye.vercel.app/" className="buttons">
                     <button className="w-[100px] pt-2 pb-3 bg-gradient-to-r  bg-blue-950 text-white hover:from-blue-500 hover:to-blue-950 focus:outline-none focus:ring focus:ring-blue-100 active:bg-blue-700 rounded-lg font-bold shadow-md transition duration-300 ease-in-out transform hover:scale-105">
                         Live
                     </button>
                     </a>
 
-                    <a href="https://github.com/ayobaj" className="buttons">
+                    <a href="https://github.com/ayobaj/portfolio-react" className="buttons">
                     <button className="w-[100px] pt-2 pb-3 bg-gradient-to-r  bg-blue-950 text-white hover:from-blue-500 hover:to-blue-950 focus:outline-none focus:ring focus:ring-blue-100 active:bg-blue-700 rounded-lg font-bold shadow-md transition duration-300 ease-in-out transform hover:scale-105">
                         GitHub
                     </button>
