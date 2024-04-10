@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <div className="bg-gradient-to-b   h-full md:flex">
 
-      <div className="h-screen lg:h-screen w-full flex flex-col space-y-10 lg:space-y-12 pt-[35px] pl-9 pr-5 lg:pl-9 lg:pr-5">
+      <div className="h-screen lg:h-screen w-[100%] flex flex-col space-y-10 lg:space-y-12 pt-[35px] pl-7 pr-5 lg:pl-9 lg:pr-5">
         <h3 className="text-xl">Hi, My Name Is </h3>
 
         <h1 className="md:text-4xl text-2xl font-bold inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300" ><span>{text} Ayomide Bajulaye</span> <Cursor cursorStyle='</>' /></h1>

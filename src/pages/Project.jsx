@@ -3,10 +3,10 @@ import pfl from "../PreImg/pfl.png"
 
 const Project = () => {
 return (
-    <div className="bg-gradient-to-b from-blue-100 h-full">
+    <div className="bg-gradient-to-b h-full">
         <h1 className="md:text-4xl text-2xl text-center pt-6">PROJECTS</h1>
 
-        <div className=" flex flex-col lg:flex-row items-center space-y-5 lg:mt-4 lg:ml-3">
+        <div className=" flex flex-col lg:flex-row items-center space-y-5 lg:space-x-8 lg:mt-4 lg:ml-6">
             
             <div>
                 <img className="w-[300px] h-[280px] rounded-md mt-6 " src={pfl}></img>   

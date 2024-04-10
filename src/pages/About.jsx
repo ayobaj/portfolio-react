@@ -25,19 +25,19 @@ const About = () => {
   return (
     <div className="bg-gradient-to-b h-full">
       
-      <div  className=" space-y-3 md:space-y-8 pl-[10px] pr-[10px]  lg:pl-[10px] lg:pr-[10px] lg:pt-6 pt-4">
+      <div  className=" space-y-3 md:space-y-8 pl-[22px] pr-[22px]  lg:pl-[22px] lg:pr-[22px] lg:pt-6 pt-4">
         
         <h1 className="text-center lg:text-center text-2xl lg:text-4xl  transition-transform transform-gpu hover:rotate-3 origin-center duration-300 font-bold ">PERSONAL INFO</h1>
 
-        <h3 className="w-[98%] md:w-[100%] lg:w-[100%] lg:text-xl  md:text-[20px]"> Hi, I'm <span className="font-bold tilt">Ayomide</span>. I'm a web developer. I like to look for original 
+        <h3 className="w-[97%] md:w-[100%] lg:w-[100%] lg:text-xl  md:text-[20px]"> Hi, I'm <span className="font-bold tilt">Ayomide</span>. I'm a web developer. I like to look for original 
           answers to challenging issues. I first became interested in web development 
           in late 2022, at which point I made the decision to study HTML and CSS</h3>
 
-        <h3 className="lg:text-xl md:text-[20px] w-[98%] md:[100%]">
+        <h3 className="lg:text-xl md:text-[20px] w-[100%] md:[100%]">
             Today, having learned about a variety of web technologies and their best practices, I have completed a number of enjoyable and fascinating tasks.
         </h3>
 
-        <h3 className="lg:text-xl md:text-[20px]">
+        <h3 className="lg:text-xl md:text-[20px] ">
             I adore programming because it is so useful and allows me to overcome obstacles in the real world. I use programming as a method to creatively express myself. In addition, there's always so much to discover, which excites me!
         </h3> 
 
@@ -61,7 +61,7 @@ const About = () => {
             </div>
         </div>
 
-      <div className="flex flex-col space-y-5 pt-5">
+      <div className="flex flex-col space-y-7 pt-5">
         <h1 className="text-center font-bold text-2xl tilt">TECH STACK</h1>
         <div className=" flex items-center justify-center space-x-3 ">
           <img className="inline-block transition-transform transform-gpu hover:rotate-6 origin-center duration-300 w-[60px]" src={html}/>

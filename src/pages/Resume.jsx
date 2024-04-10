@@ -9,7 +9,7 @@ const Resume = () => {
     };
 
     return (
-        <div className="text-2xl text-center flex flex-col pt-9 space-y-[290px] bg-gradient-to-b from-blue-100 h-full ">
+        <div className="text-2xl text-center flex flex-col pt-9 space-y-[290px]  h-full ">
             
             <h1 className="font-bold"> RESUME</h1>
             
