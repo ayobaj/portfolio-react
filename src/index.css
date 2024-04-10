@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .preloader{
+        @apply flex flex-col h-[100vh] w-[100%] bg-blue-950 text-white fixed bottom-0 left-0 right-0 z-[55] justify-center items-center overflow-hidden
+    }
+    .texts-container{
+        @apply flex items-center justify-between h-[60px] w-[235px] font-bold font-tiltneon space-x-3 mt-6 text-white overflow-hidden 
+    }
+    .tilt{
+        @apply inline-block transition-transform transform-gpu hover:rotate-6 origin-center duration-300
+    }
+}
+
+
+
+
