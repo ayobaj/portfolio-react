@@ -13,7 +13,7 @@ const Resume = () => {
             
             <h1 className="font-bold"> RESUME</h1>
             
-            <a href="https://drive.google.com/file/d/1jh5qY8HQxqG-akcfBIEPsf888O1qpVu9/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1_vclnEqqbyqLw_18TgI6yamEX7oi83T2/view?usp=sharing">
                 <button className=" py-2 px-4 flex items-center bg-gradient-to-r  bg-blue-950 text-white hover:from-blue-500 hover: to-blue-950 focus:outline-none focus:ring focus:ring-blue-100
                 active:bg-blue-700 rounded-lg font-bold shadow-md transition duration-300 ease-in-out transform hover:scale-105 ">Google Drive<span><MdSimCardDownload/></span>
                 </button>
