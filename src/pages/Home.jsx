@@ -20,7 +20,7 @@ const Home = () => {
         <h1 className="md:text-4xl text-2xl font-bold inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300" ><span>{text} Ayomide Bajulaye</span> <Cursor cursorStyle='</>' /></h1>
 
         <p className="text-xl w-[95%] md:w-[100%] lg:w-[100%] lg:text-2xl mb-[px] inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300">
-          I'm a self-employed Web Developer who is passionate about creating outstanding online experiences.
+          I'm a Frontend Engineer who is passionate about creating outstanding online experiences.
           I specialize in creating user-friendly, SEO-optimized, and accessible products. I can work on a variety of projects as a freelancer, 
           and I'm currently open to new opportunities. Together, let's develop exceptional solutions that are suited to your requirements.
         </p>
