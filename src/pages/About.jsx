@@ -27,7 +27,7 @@ const About = () => {
   return (
     <div className="bg-gradient-to-b h-full">
       
-      <div  className=" space-y-3 md:space-y-8 pl-[22px] pr-[22px]  lg:pl-[22px] lg:pr-[22px] lg:pt-6 pt-4">
+      <div  className="text-reveal space-y-3 md:space-y-8 pl-[22px] pr-[22px]  lg:pl-[22px] lg:pr-[22px] lg:pt-6 pt-4">
         
         <h1 className="text-center lg:text-center text-2xl lg:text-4xl  transition-transform transform-gpu hover:rotate-3 origin-center duration-300 font-bold ">PERSONAL INFO</h1>
 
