@@ -90,7 +90,7 @@ const About = () => {
         
         <p>Are you prepared to advance your web projects?
             Together, let's work to develop outstanding user experiences.
-            Get in touch with me right now to talk about how I can help with your frontend development requirements. Reach out, and together let's create something truly magnificent!
+            Get in touch with me right now to talk about how I can help with your frontend web application requirements. Reach out and together let's create something truly magnificent!
         </p>
 
           <div className="flex justify-center">
