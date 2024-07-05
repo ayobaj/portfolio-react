@@ -36,7 +36,7 @@ const NavBar = () => {
                         <FaRegWindowClose className=" text-3xl lg:hidden mt-5 cursor-pointer rounded-md inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300" onClick={() => setShow(false)} />
                     }
 
-                    {show && <div className="lg:hidden absolute bg-blue-950 min-h-[39vh] lg:min-h-fit lg:w-auto left-0 top-[8.3%] md:top-[7.5%] w-full flex items-center px-5 z-10 ">
+                    {show && <div className="lg:hidden absolute bg-blue-950 min-h-[39vh] lg:min-h-fit lg:w-auto left-0 top-[9.2%] md:top-[7.5%] w-full flex items-center px-5 z-10 ">
                         <div className="flex lg:flex-row flex-col lg:items-center lg:gap-[4vw] gap-7 pt-6 ">
                             <Link to="/"  className="inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300" onClick={handleLinkClick}>Home</Link>
                             <Link to="/about"  className="inline-block transition-transform transform-gpu hover:rotate-3 origin-center duration-300" onClick={handleLinkClick}>About</Link>
