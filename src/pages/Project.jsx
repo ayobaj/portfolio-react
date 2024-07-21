@@ -23,7 +23,7 @@ return (
                 </div>
 
                 <div className="px-7 md:px-7">
-                    <h3><span className="text-xl font-bold">Tech Stack:</span> React.JS, Javascript, Tailwind CSS, Tailwind Animation Firebase, Redux, Mongodb, Express, Nodejs and Render. </h3>
+                    <h3><span className="text-xl font-bold">Tech Stack:</span> React.JS, Javascript, Tailwind CSS, Tailwind Animation, Firebase, Redux, Mongodb, Express, Nodejs and Render. </h3>
                     <p>A fullstack Blog web application developed with the MERN stack. </p>
                 </div>
 
