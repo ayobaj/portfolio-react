@@ -20,7 +20,7 @@ return (
             <div className="space-y-4">
                 
                 <div className="">
-                    <h1 className="text-xl lg:text-2xl text-center font-bold lg:mr-[290px]">BAJZ</h1>
+                    <h1 className="text-xl lg:text-2xl text-center font-bold lg:mr-[290px]">MEDI-SCHED</h1>
                 </div>
 
                 <div className="px-7 md:px-7">
