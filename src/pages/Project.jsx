@@ -24,7 +24,7 @@ return (
                 </div>
 
                 <div className="px-7 md:px-7">
-                    <h3><span className="text-xl font-bold">Tech Stack:</span> Next.JS, typescript, tailwind, shadcn-ui, twilio and sentry</h3>
+                    <h3><span className="text-xl font-bold">Tech Stack:</span> Next.JS, typescript, tailwind, shadcn-ui, twilio, sentry and appwrite</h3>
                     <p>A fullstack health management web application developed to curb the tedious process of booking an appointment with a doctor . </p>
                 </div>
 
