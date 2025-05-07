@@ -12,7 +12,7 @@ const PreLoader = () => {
         <div className=" preloader">
             <img className="rounded-full" src={logo} height={100} width={80} alt="PreImg" />
             <div className="texts-container"> 
-            <span>Frontend Engineer</span>
+            <span>Software Engineer</span>
             <span>FullStack Engineer</span>
             <span>Graphics Designer</span>
             </div>
