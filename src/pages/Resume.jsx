@@ -14,7 +14,7 @@ const Resume = () => {
             <h1 className="font-bold"> RESUME</h1>
 
 
-            {/* Dont forget to add the google drive link */}
+            
             <a href="/"> 
                 <button className=" py-2 px-4 flex items-center bg-gradient-to-r  bg-blue-950 text-white hover:from-blue-500 hover: to-blue-950 focus:outline-none focus:ring focus:ring-blue-100
                 active:bg-blue-700 rounded-lg font-bold shadow-md transition duration-300 ease-in-out transform hover:scale-105 ">Google Drive<span><MdSimCardDownload/></span>
