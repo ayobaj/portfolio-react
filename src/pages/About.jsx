@@ -61,6 +61,7 @@ const About = () => {
                 <li className="flex items-center gap-2 tilt"><FaCode /> Redux</li>
                 <li className="flex items-center gap-2 tilt"><FaCode /> GSAP</li>
                 <li className="flex items-center gap-2 tilt"><FaCode /> Typescript</li>
+                <li className="flex items-center gap-2 tilt"><FaCode /> React Native</li>
               </ul>
             </div>
         </div>
