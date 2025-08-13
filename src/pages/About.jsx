@@ -54,6 +54,7 @@ const About = () => {
                 <li className="flex items-center gap-2 tilt"><FaCode /> Javascript</li>
                 <li className="flex items-center gap-2 tilt"><FaCode /> ReactJS</li>
                 <li className="flex items-center gap-2 tilt"><FaCode /> Tailwind CSS</li>
+                <li className="flex items-center gap-2 tilt"><FaCode /> NextJS</li>
               </ul>
             
               <ul>
