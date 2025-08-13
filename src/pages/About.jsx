@@ -66,7 +66,7 @@ const About = () => {
             </div>
         </div>
 
-      <div className="flex flex-col space-y-7 pt-5">
+      <div className="flex flex-col space-y-7 pt-10">
         <h1 className="text-center font-bold text-2xl tilt">TECH STACK</h1>
         <div className=" flex items-center justify-center space-x-3 ">
           <img className="inline-block transition-transform transform-gpu hover:rotate-6 origin-center duration-300 w-[60px]" src={html}/>
